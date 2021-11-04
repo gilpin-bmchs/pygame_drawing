@@ -2,7 +2,7 @@
 import pygame, sys
 from pygame.locals import *
 
-# imitialize pygame
+# initialize pygame
 pygame.init()
 
 # assign FPS
